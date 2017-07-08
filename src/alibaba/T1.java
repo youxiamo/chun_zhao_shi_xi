@@ -6,6 +6,7 @@ import java.util.Scanner;
  * Created by Administrator on 2017/4/26 0026.
  */
 //IU语23成为而为挂号费
+    // zhe shi ni
 public class T1 {
 
       public static void pan(String s1,String p){
